@@ -1,1 +1,1 @@
-Installation: omarchy-theme-install https://github.com/nxmnnn/omarchy-green-city.git
+Installation: omarchy-theme-install https://github.com/zillamtt/omarchy-green-city.git
